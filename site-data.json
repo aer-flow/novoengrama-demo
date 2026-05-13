@@ -1,14 +1,14 @@
 {
   "brand_tagline": "Cabinet de Kinetoterapie & Recuperare Medicală",
   "city": "Cluj-Napoca",
-  "site_url": "https://novoengrama-demo.vercel.app/",
+  "site_url": "https://novoengrama.vercel.app/",
   "existing_website": "https://novoengrama.ro/",
   "has_existing_website": "da",
   "phone_display": "0768 470 083",
   "email": "contact@novoengrama.ro",
   "address": "Str. Fagului 1A, Cluj-Napoca",
   "instagram_url": "#",
-  "facebook_url": "#",
+  "facebook_url": "https://www.facebook.com/Novoengrama/",
   "linkedin_url": "#",
   "copyright_year": "2026",
   "team_intro": "Echipă de specialiști care lucrează pe recuperare cu o abordare care depășește serviciile medicale standard. Servicii incluse: TECAR, shockwave, dry needling, fizioterapie, terapie manuală și kinetoterapie.",
@@ -19,5 +19,5 @@
   "phone_link": "0768470083",
   "whatsapp_number": "0768470083",
   "map_embed_url": "https://www.google.com/maps?q=Str.%20Fagului%201A%2C%20Cluj-Napoca&output=embed",
-  "og_image_url": "https://novoengrama-demo.vercel.app/img/brand-preview.png"
+  "og_image_url": "https://novoengrama.vercel.app/img/brand-preview.png"
 }
